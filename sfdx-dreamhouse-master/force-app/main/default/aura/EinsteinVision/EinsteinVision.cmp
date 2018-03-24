@@ -5,7 +5,7 @@
     <aura:attribute name="predictions" type="Object[]"/>
 	<aura:attribute name="waiting" type="Boolean" default="false"/>
     <aura:attribute name="pictureSrc" type="String" />
-    
+    <aura:attribute name="pictureSrc1" type="String" />
     <aura:registerEvent name="einsteinVisionEvent" type="c:EinsteinVisionEvent"/>
 
     <div>
